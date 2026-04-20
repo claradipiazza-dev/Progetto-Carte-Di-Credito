@@ -1,0 +1,75 @@
+@charset "UTF-8";
+
+.container {
+	color: balck;
+	padding: 5%;
+	font-size: 20px;
+}
+
+#h2 {
+	font-size: 45px;
+	color: red;
+}
+
+#formPagamento {
+	font-size: 20px;
+	text-align: center;
+}
+
+label.error {
+	display: block;
+	color: red;
+	font-size: 20px;
+	margin-top: 5px; /* Aggiungo spazio sopra il messaggio di errore */
+}
+
+.container-left {
+	position: relative;
+	width: 60%;
+	margin-left: -10%;
+	padding-bottom: 15%;
+	margin-right: 25%;
+	border-right: 2px solid black;
+	text-align: center;
+}
+
+.container-right {
+	position: absolute;
+	left: 50%;
+	padding-bottom: 4%;
+	width: 50%;
+	top: 14%;
+	padding-left: 1%;
+}
+
+#imgcarta {
+	position: relative;
+	width: 20%;
+	height: 20%;
+	float: right;
+}
+
+#imgcarrello {
+	position: relative;
+	width: 12%;
+	height: 12%;
+	float: left;
+	left: 80%;
+}
+
+/* Stile per il menu a discesa */
+.form-select {
+	padding: .375rem 1.75rem .375rem .75rem;
+	line-height: 1.5;
+	border: 1px solid rgb(255, 255, 255);
+	border-radius: .25rem;
+	background-color: rgb(0, 128, 64);
+	color: rgb(0, 0, 128);
+	appearance: none;
+}
+
+/* Stile per le opzioni */
+.form-select option {
+	color: rgb(0, 0, 128);
+	background-color: rgb(255, 255, 255);
+}

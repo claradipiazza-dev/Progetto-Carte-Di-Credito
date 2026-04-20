@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+#div1 {
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+#testo1 {
+	font-size:40px;
+	color:white;
+	text-align: center;
+	padding-left: 38%;
+}
+
+#blocca-sblocca {
+	position: relative;
+    left: 17%;
+    padding: 50px;
+}
+	
+#addcarta {
+position: absolute;
+left: 43%;
+padding: 50px;
+padding-right: 65px;
+padding-left: 65px;
+}
+
+#lista-carte {
+position: absolute;
+left: 62.3%;
+padding: 50px;
+padding-right: 80px;
+padding-left: 80px;
+}
+
+#listacarte {
+position: absolute;
+left: 65%;
+padding: 50px;
+}
+
+#imgcarta {
+	position: relative;
+	width: 10%;
+	height: 10%;
+	float: left;
+}

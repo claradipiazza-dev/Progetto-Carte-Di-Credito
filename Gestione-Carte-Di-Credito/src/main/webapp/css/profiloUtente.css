@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+.informazioni {
+	width: 70%;
+	position: relative;
+	left: 15%;
+}
+
+.div-group {
+	border: 3px solid;
+	border-radius: 8px;
+	border-style: groove;
+	text-align: center;
+	font-size: 18px;
+	border-color: lightsteelblue;
+	font-family: 'Caveat', cursive; 
+	font-size: 20px;
+}
+
+.head {
+	background-color: lightsteelblue;
+	/*opacity: 0.8;*/
+	color: darkblue;
+	border-radius: 8px;
+	padding-bottom: 12px;;
+}
+
+.linea-divisoria {
+	border-top: 2px solid black;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#avanti {
+	position: relative;
+	left: 45%;
+}
+
+.modal-title {
+	color: red;
+	font-size: 30px;
+}
+
+.form-group {
+	position: relative;
+	font-size: 16px;
+	text-align: center;
+}
+
+#imgcarta {
+	width: 10%;
+	height: 10%;
+}
+
+#imgcarte {
+	width: 15%;
+	height: 15%;
+}
+
+#imgacquisti {
+	width: 10%;
+	height: 10%;
+}
+
+#info {
+	color: darkblue;
+}

@@ -1,0 +1,68 @@
+@charset "UTF-8";
+
+#credito {
+	position: relative;
+	left: 1000%;
+	color: white;
+}
+
+h1 {
+	font-size:50px;
+	color:wheat;
+	text-align: center;
+	padding-right: 40%;
+}
+
+#text {
+	margin-top: 5%;
+	background-image: url(img/sfondocarte.jpg) no-repeat;
+	background-size: cover;
+	padding-top: 10%;
+	padding-bottom: 20%;
+}
+
+#text2 {
+	padding-left: 5%;
+	position: absolute;
+	top: 17%;
+}
+
+.p1 {
+	font-size: 30px;
+	margin-left: 2%;
+}
+
+pre {
+	font-family: inherit;
+}
+
+#left {
+	position: relative;
+	width: 100%;
+}
+
+#right {
+	position: absolute;
+	left: 50%;
+	padding-bottom: 4%;
+	width: 50%;
+	top: 0%;
+	padding-left: 1%;
+}
+
+h2 {
+	margin-left: 2%;
+}
+
+#ricarica {
+	margin-left: 30%;
+	margin-top: 6%;
+}
+
+
+#imgcarta {
+	position: relative;
+	width: 10%;
+	height: 10%;
+	float: left;
+}

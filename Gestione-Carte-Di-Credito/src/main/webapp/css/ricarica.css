@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+#testa {
+	color: red;
+	text-align: center;
+}
+
+#divRicarica {
+	text-align: center;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+.form-control {
+	border: 3px solid lightgrey;
+	width: 50%;
+	padding-bottom: 1%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.form-group {
+	color: black;
+}
+
+#formRicarica {
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+/* Stile per il menu a discesa */
+.form-select {
+	padding: .375rem 1.75rem .375rem .75rem;
+	line-height: 1.5;
+	border: 1px solid rgb(255, 255, 255);
+	border-radius: .25rem;
+	background-color: rgb(0, 128, 64);
+	color: rgb(0, 0, 128);
+	appearance: none;
+}
+
+/* Stile per le opzioni */
+.form-select option {
+	color: rgb(0, 0, 128);
+	background-color: rgb(255, 255, 255);
+}
+
+#imgcarta {
+	position: relative;
+	width: 20%;
+	height: 20%;
+	float: left;
+}

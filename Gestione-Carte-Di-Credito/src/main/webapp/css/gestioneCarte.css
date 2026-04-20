@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+#testa {
+	color: red;
+	text-align: center;
+}
+
+.head {
+	background-color: rgb(187, 255, 187);
+	opacity: 0.8;
+	color: rgb(128, 0, 64);
+	font-size: 25px;
+	border-bottom: 2px solid black;
+}
+
+.group {
+	border-style: solid;
+	border-color: black;
+	text-align: center;
+	position: relative;
+	width: 50%;
+	left: 25%;
+
+}
+
+.linea-divisoria {
+    border-top: 2px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+	color: rgb(128, 0, 64);
+}
+
+.stato-carta {
+    color: purple; /* Imposta il colore del testo a viola */
+}
+
+
+#formGestisciCarte {
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+#blocca-carta {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	left: 10%;
+}
+
+#sblocca-carta {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	cursor: pointer;
+	position: absolute;
+	left: 40%;
+}
+
+#imgcarta {
+	position: relative;
+	width: 10%;
+	height: 10%;
+	float: left;
+}

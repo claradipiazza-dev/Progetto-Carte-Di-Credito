@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+  margin: 0%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	font-size:50px;
+	color:wheat;
+	text-align: center;
+	padding-right: 40%;
+}
+
+#navbar {
+	color: black;
+	opacity: 0.9;
+}
+
