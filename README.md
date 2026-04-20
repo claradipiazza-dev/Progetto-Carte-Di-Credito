@@ -57,3 +57,5 @@ Il sistema riflette la complessità del dominio tramite una struttura organizzat
 * **query:** Logica SQL per il filtraggio delle carte per utente e l'aggiornamento degli stati (Active/Blocked).
 
 * **servizi:** Classe Mail.java per l'integrazione del server SMTP.
+
+
