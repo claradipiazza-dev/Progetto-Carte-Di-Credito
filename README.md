@@ -16,7 +16,7 @@ L'amministratore ha il controllo totale sulla piattaforma per garantire la sicur
 
 * **Gestione Catalogo:** Funzionalità per inserire nuove tipologie di carte di credito nel database, rendendole disponibili per l'acquisto sul sito.
 
-## Modulo Utente
+### Modulo Utente
 L'utente può gestire il proprio portafoglio finanziario in autonomia:
 
 * **Marketplace:** Acquisto di nuove carte di credito tra quelle disponibili sulla piattaforma (gestione pagamenti).
